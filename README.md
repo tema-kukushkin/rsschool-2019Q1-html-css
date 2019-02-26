@@ -1,2 +1,2 @@
 artem.kukushkin
-HTML CSS Basics: https://www.codecademy.com/artemkukushkin
+HTML CSS Basics: https://www.codecademy.com/artem.kukushkin
